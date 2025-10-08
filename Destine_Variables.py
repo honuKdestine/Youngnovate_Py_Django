@@ -21,6 +21,7 @@ difference = num1 - num2
 product = num1 * num2
 quotient = num1 / num2
 
+
 print("Sum:", sum)
 print("Difference:", difference)
 print("Product:", product)

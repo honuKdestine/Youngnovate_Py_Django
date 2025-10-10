@@ -7,6 +7,11 @@ my_name = "Destine"
 my_age = 21
 my_favorite_programming_language = "Python"
 completed_class = True
+print("Name:", my_name)
+print("Age:", my_age)
+print("Favorite Programming Language:", my_favorite_programming_language)
+print("Completed Class:", completed_class)
+
 
 
 """
